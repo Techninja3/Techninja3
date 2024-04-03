@@ -26,7 +26,6 @@ Here are some ideas to get you started:
   <a href="mailto:rocco83dev@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-A9D8B3?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
 	</a>
- <img src="https://img.shields.io/github/stars/Techninija3?color=%23C2E59B&logo=Github&style=for-the-badge" alt="GitHub stars"/>
 
 <a>
 	<img src="https://komarev.com/ghpvc/?username=Techninija3&style=for-the-badge&color=89C5D2" alt="profile views"/>
@@ -65,11 +64,6 @@ Here are some ideas to get you started:
   <img title="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" />
 </p>
   
-<details>
-  <summary>⚡ Github Stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Techninija3&theme=tokyonight&show_icons=true" alt="Curtis Warcups Github Stats" />
-</details>
 
 <!--
 <details>
