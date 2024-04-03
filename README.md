@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 	<a href="https://www.linkedin.com/in/rocco-santini-b704ba271/">
 		<img src="https://img.shields.io/badge/LinkedIn-64B3F3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
-	<a href="https://rocco-santini.vercel.app/">
+	<a href="https://www.rocco-santini.com/">
 		<img src="https://img.shields.io/badge/portfolio-89C5D2?style=for-the-badge&logoColor=white" alt="Rocco Santini Portfolio"/>
 	</a>
   <a href="mailto:rocco83dev@gmail.com">
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 🌱 Senior Web Developer with 6 years of industry experience.
 
-- 👨‍💻 My recent works are available [here](https://rocco-santini.vercel.app/)
+- 👨‍💻 My recent works are available [here](https://www.rocco-santini.com/)
 
 - 📫 How to reach me **rocco83dev@gmail.com**
 
