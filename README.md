@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 
 <p>
   <img title="typescript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescipt" />
-  <img title="TailwindCSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind css" />
   <img title="Nextjs" width="25px" src="https://imgur.com/hPofQoP.png" alt="next.js" />
   <img title="React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
   <img title="redux" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" />
