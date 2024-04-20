@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </div>
 
 
-- 🌱 Senior Web Developer with 6 years of industry experience.
+- 🌱 Senior Web Developer with over 10 years of industry experience.
 
 - 👨‍💻 My recent works are available [here](https://www.rocco-santini.com/)
 
